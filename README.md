@@ -52,4 +52,7 @@ This is a modern and professional portfolio website designed to showcase Ayush G
  <li>Clicks "Get Started" button → Opens a modal form</li>
   <li>Fills out the contact form → Receives a success confirmation</li>
 </ul> 
-
+<h1>Skills : </h1>
+<span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30px" width="100px"></span>
+<span><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="30px" width="90px" ></span>
+<span><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="30px" width="90px"></span>
