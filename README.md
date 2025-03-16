@@ -50,6 +50,8 @@ This is a modern and professional portfolio website designed to showcase Ayush G
   <li>User visits the website → Sees intro with a typing effect</li> 
   <li>Navigates through sections → Can explore projects & details</li>
  <li>Clicks "Get Started" button → Opens a modal form</li>
+  <li>Click "Try Demo" button  → Opens the website live url. </li>
+  <li>Click "Learn More" button → Opens the projects github repository.  </li>
   <li>Fills out the contact form → Receives a success confirmation</li>
 </ul> 
 <h1>Skills : </h1>
