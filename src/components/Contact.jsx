@@ -38,7 +38,7 @@ export default function Contact() {
 
           {/* ✅ LinkedIn */}
           <a
-            href="https://www.linkedin.com/in/ayushghole/"
+            href="www.linkedin.com/in/ayush-ghole-0b4391262/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-indigo-600 hover:text-indigo-800 text-3xl"
