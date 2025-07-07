@@ -10,7 +10,7 @@ export default function ProjectCard({ title, description, image, link, tech }) {
       rel="noopener noreferrer"
       whileHover={{ scale: 1.03 }}
       whileTap={{ scale: 0.98 }}
-      className="block bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition">
+      className="block bg-white rounded-lg ms-5 shadow-lg overflow-hidden hover:shadow-xl transition">
       <img
         src={image}
         alt={title}

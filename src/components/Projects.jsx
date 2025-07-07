@@ -13,7 +13,7 @@ export default function Projects() {
     {
       title: "Wonderlust",
       description:
-        "Wanderlust Web is a dynamic and user-friendly travel accommodation platform, similar to Airbnb, designed for explorers seeking unique stays and memorable experiences.",
+        "Is a dynamic and user-friendly travel accommodation platform, similar to Airbnb, designed for explorers seeking unique stays and memorable experiences.",
       image: "wonderlust.png",
       link: "https://wonderlust-in.onrender.com/listing",
       tech: "React, Tailwind CSS, MERN(MVC Architecture)",
